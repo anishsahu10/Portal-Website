@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portal-Website/static/css/main.c5c1dafe.css",
-    "main.js": "/Portal-Website/static/js/main.9da8f39e.js",
+    "main.css": "/Portal-Website/static/css/main.2c5d46ed.css",
+    "main.js": "/Portal-Website/static/js/main.84c2b2a5.js",
     "static/media/fa-solid-900.svg": "/Portal-Website/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/Portal-Website/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
     "static/media/fa-solid-900.eot": "/Portal-Website/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
@@ -18,11 +18,11 @@
     "static/media/fa-regular-400.woff": "/Portal-Website/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
     "static/media/fa-regular-400.woff2": "/Portal-Website/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
     "index.html": "/Portal-Website/index.html",
-    "main.c5c1dafe.css.map": "/Portal-Website/static/css/main.c5c1dafe.css.map",
-    "main.9da8f39e.js.map": "/Portal-Website/static/js/main.9da8f39e.js.map"
+    "main.2c5d46ed.css.map": "/Portal-Website/static/css/main.2c5d46ed.css.map",
+    "main.84c2b2a5.js.map": "/Portal-Website/static/js/main.84c2b2a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5c1dafe.css",
-    "static/js/main.9da8f39e.js"
+    "static/css/main.2c5d46ed.css",
+    "static/js/main.84c2b2a5.js"
   ]
 }
