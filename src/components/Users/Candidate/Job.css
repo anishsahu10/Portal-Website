@@ -1,0 +1,40 @@
+.courses-nav {
+    background: #f2f2f2;
+    height: 4vh;
+    min-width: 50%;
+    border-radius: 10px;
+    text-align: center;
+    border-bottom: 2px solid #2f8d46;
+}
+
+.courses-nav a {
+    padding: 5px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #2f8d46;
+}
+
+.Page {
+    width: 100%;
+    height: 96vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    background-color: lightgreen;
+}
+.courses-nav a {
+    color: rgb(59, 117, 241);
+}
+.courses-nav a:hover {
+    color: rgb(245, 105, 45);
+}
+.Search,
+.List {
+    width: 50%;
+    height: 40%;
+    padding: 100px;
+    background-color: whitesmoke;
+}

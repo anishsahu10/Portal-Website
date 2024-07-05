@@ -1,0 +1,51 @@
+.app{
+    z-index: 20;
+   display: block;
+   text-align: end;
+   height: 5%;
+   
+   /* padding-bottom:; */
+}
+
+.search {
+    font-size: 20px;
+
+}
+.list{
+    padding-top: 10 px;
+    /* background-color: black; */
+    /* padding: ; */
+    margin-left: 80%;
+    width: 20%;
+    justify-content: end;
+    list-style: none;
+    text-align: end;
+    color:black;
+    overflow-y: hidden;
+}
+
+.listItem{
+    padding:1em;
+    margin-bottom: 20px;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+/* .Searchbar input{
+     padding-top: 10px;
+    display: flex;
+    margin-top: 20px;
+    width: 200px;
+    height: 80%;
+    font-size: 20;
+    padding-left: 10px;
+    top: 35px;
+} */
+/* .ul{
+    top: 303px;;
+    overflow-y: scroll;
+    list-style-type: disc;
+     margin: 10 px; 
+    font-size: 10px;
+    color: azure;
+} */
